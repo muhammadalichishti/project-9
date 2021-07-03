@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-It is a replication of the Windows 10  (GUI) which is going to obsolete as windows 11 is here. It is only made by using only Html, Css and Java. All rights reserved to <a href="https://www.microsoft.com/en-in">Microsoft&reg;</a>
+It is a replication of the Windows 10 (GUI) which is going to obsolete as windows 11 is here. It is only made by using only Html, Css, Scss and Java. All rights reserved to <a href="https://www.microsoft.com/en-in">Microsoft&reg;</a>
 
 Note 2.0: I want to develop Graphical User Interface of all Microsoft Windows (Windows XP, 7, 10 and 11). I have already developed GUI's of Windows 10 and 11 and my next project will be Windows 7 GUI and I am thinking something special with for it.
 
